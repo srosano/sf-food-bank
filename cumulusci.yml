@@ -4,7 +4,7 @@ project:
   package:
     name: Food-Bank
     api_version: "60.0"
-    namespace: fbvolapp
+    namespace: fbvolapptwo
   git:
     default_branch: "main"
   source_format: sfdx
